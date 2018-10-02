@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:51:38	28505/28505	---MC-	200	added ('OK')	text/html	etag:%221538402487-0%22	http://hava-skafferisalonger.se/	C:/code/Hava-skafferisalonger.se/html/Hava-skafferisalong/hava-skafferisalonger.se/index.html	(from )
