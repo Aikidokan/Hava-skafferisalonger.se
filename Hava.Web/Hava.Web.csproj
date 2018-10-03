@@ -15,7 +15,7 @@
     <RootNamespace>Hava.Web</RootNamespace>
     <AssemblyName>Hava.Web</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -255,6 +255,114 @@
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.controller.js" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.htm" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.resource.js" />
+    <Content Include="assets\aktuellt.html" />
+    <Content Include="assets\file\56.html" />
+    <Content Include="assets\file\59.html" />
+    <Content Include="assets\file\74.html" />
+    <Content Include="assets\file\76.html" />
+    <Content Include="assets\file\88.html" />
+    <Content Include="assets\file\89.html" />
+    <Content Include="assets\file\93.html" />
+    <Content Include="assets\file\94.html" />
+    <Content Include="assets\file\95.html" />
+    <Content Include="assets\file\bakgrundsbildtopjpg-0.html" />
+    <Content Include="assets\file\havabokning338x277pxjpg.html" />
+    <Content Include="assets\file\havanowopen1338x277pxjpg.html" />
+    <Content Include="assets\file\havaocc88ppet338x277pxjpg.html" />
+    <Content Include="assets\file\havasalongernajpg.html" />
+    <Content Include="assets\file\havasplash338x277px-2jpg-0.html" />
+    <Content Include="assets\file\havasplash338x277px-2jpg.html" />
+    <Content Include="assets\file\havasplash338x277pxjpg.html" />
+    <Content Include="assets\file\vinlistaingressbildjpg.html" />
+    <Content Include="assets\gården.html" />
+    <Content Include="assets\havas-helgkasse.html" />
+    <Content Include="assets\images\facebook.png" />
+    <Content Include="assets\images\fika.jpg" />
+    <Content Include="assets\images\garden.jpg" />
+    <Content Include="assets\images\Hava_bokning_338x277px.jpg" />
+    <Content Include="assets\images\Hava_Fika_338x277px-1.jpg" />
+    <Content Include="assets\images\Hava_Fika_338x277px.jpg" />
+    <Content Include="assets\images\Hava_garden1_338x277px.jpg" />
+    <Content Include="assets\images\Hava_Lunch_338x277px-1.jpg" />
+    <Content Include="assets\images\Hava_Lunch_338x277px.jpg" />
+    <Content Include="assets\images\Hava_o%25CC%2588ppet_338x277px.jpg" />
+    <Content Include="assets\images\Hava_salongerna_0.jpg" />
+    <Content Include="assets\images\Hava_Splash_338x277px-2.jpg" />
+    <Content Include="assets\images\Hava_Splash_338x277px-2_0.jpg" />
+    <Content Include="assets\images\Hava_Splash_338x277px-2_1.jpg" />
+    <Content Include="assets\images\Hava_Splash_338x277px.jpg" />
+    <Content Include="assets\images\HAVA_webblogo.svg" />
+    <Content Include="assets\images\helgkasse.jpg" />
+    <Content Include="assets\images\instagram.png" />
+    <Content Include="assets\images\lunch.jpg" />
+    <Content Include="assets\images\Vinlista_ingressbild.jpg" />
+    <Content Include="assets\index.html" />
+    <Content Include="assets\libraries\slick\slick\ajax-loader.gif" />
+    <Content Include="assets\libraries\slick\slick\fonts\slick.svg" />
+    <Content Include="assets\libraries\superfish\images\arrows-ffffff-rtl.png" />
+    <Content Include="assets\libraries\superfish\images\arrows-ffffff.png" />
+    <Content Include="assets\libraries\superfish\images\shadow.png" />
+    <Content Include="assets\misc\draggable.png" />
+    <Content Include="assets\misc\grippie.png" />
+    <Content Include="assets\misc\throbber-active.gif" />
+    <Content Include="assets\misc\throbber-inactive.png" />
+    <Content Include="assets\misc\tree-bottom.png" />
+    <Content Include="assets\misc\tree.png" />
+    <Content Include="assets\modules\ctools\images\status-active.gif" />
+    <Content Include="assets\modules\menu_attach_block\arrow-asc.png" />
+    <Content Include="assets\modules\menu_attach_block\arrow-desc.png" />
+    <Content Include="assets\node\49.html" />
+    <Content Include="assets\node\58.html" />
+    <Content Include="assets\node\6.html" />
+    <Content Include="assets\salonger.html" />
+    <Content Include="assets\sites\all\libraries\slick\slick\ajax-loader.gif" />
+    <Content Include="assets\sites\all\libraries\slick\slick\fonts\slick.svg" />
+    <Content Include="assets\sites\all\libraries\superfish\images\arrows-ffffff-rtl.png" />
+    <Content Include="assets\sites\all\libraries\superfish\images\arrows-ffffff.png" />
+    <Content Include="assets\sites\all\libraries\superfish\images\shadow.png" />
+    <Content Include="assets\sites\all\modules\ctools\images\status-active.gif" />
+    <Content Include="assets\sites\all\modules\menu_attach_block\arrow-asc.png" />
+    <Content Include="assets\sites\all\modules\menu_attach_block\arrow-desc.png" />
+    <Content Include="assets\sites\all\themes\hava\images\header_bakgrundsbild2b.jpg" />
+    <Content Include="assets\sites\default\files\css\css_BUkigv0o_hYaQY5uiV9jwwF71WsmWqZeMeERTmNDBgQ.css" />
+    <Content Include="assets\sites\default\files\css\css_hmawOlvijsshrXXKam77v6iTl4G7_EiZUdmPmVBi2pE.css" />
+    <Content Include="assets\sites\default\files\css\css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" />
+    <Content Include="assets\sites\default\files\css\css_nfF918FkHev-pXvAFXGUeAadbtECSMf58dl2Ic1uC7w.css" />
+    <Content Include="assets\sites\default\files\css\css_XT4yT0R2Ede_BlgybKrrAMi8R3DwVIAZaH_nLaU3v3o.css" />
+    <Content Include="assets\sites\default\files\css\css_yQ6smDmleylcgmmsq2etXLXltNj1PnXpnN6uMBf3qDg.css" />
+    <Content Include="assets\sites\default\files\css\css_ZwQ4JegYk9_vB7LtvEKjfjeVcLzDAa88SNWeshZo5Jw.css" />
+    <Content Include="assets\sites\default\files\css\panel.css" />
+    <Content Include="assets\sites\default\files\facebook.png" />
+    <Content Include="assets\sites\default\files\Hava_bokning_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Fika_338x277px-1.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Fika_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\Hava_garden1_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Lunch_338x277px-1.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Lunch_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\Hava_o%25CC%2588ppet_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\Hava_salongerna_0.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Splash_338x277px-2.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Splash_338x277px-2_0.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Splash_338x277px-2_1.jpg" />
+    <Content Include="assets\sites\default\files\Hava_Splash_338x277px.jpg" />
+    <Content Include="assets\sites\default\files\HAVA_webblogo.svg" />
+    <Content Include="assets\sites\default\files\instagram.png" />
+    <Content Include="assets\sites\default\files\js\js_-jpVH83_GqEOTlbGNeyOREu69nuDuBx1czhLK4nhCog.js" />
+    <Content Include="assets\sites\default\files\js\js_gPM6NXOQjN2XM2JWQGfy07nKmcdDFrL289YA7h80ySs.js" />
+    <Content Include="assets\sites\default\files\js\js_H_SJQb28PveI4IBuOE74kJGBs2zOJklszYRGoB9s0NU.js" />
+    <Content Include="assets\sites\default\files\js\js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js" />
+    <Content Include="assets\sites\default\files\js\js_PCySZxpBFMI6Vqfua-NwzB-0IM_m1fx8uDgio-6n310.js" />
+    <Content Include="assets\sites\default\files\js\js_Z4iSVB9YAxP9Q2DW-3TgRzYKM0dBxOOk1IGP0gvkaTk.js" />
+    <Content Include="assets\sites\default\files\js\js_zfknOK6Pz34lw30Xsm5toXF4sk5yxEBB-TzI9ylO60s.js" />
+    <Content Include="assets\sites\default\files\styles\aktuellt\public\fika.jpg" />
+    <Content Include="assets\sites\default\files\styles\aktuellt\public\garden.jpg" />
+    <Content Include="assets\sites\default\files\styles\aktuellt\public\helgkasse.jpg" />
+    <Content Include="assets\sites\default\files\styles\aktuellt\public\lunch.jpg" />
+    <Content Include="assets\sites\default\files\Vinlista_ingressbild.jpg" />
+    <Content Include="assets\skafferi#fika.html" />
+    <Content Include="assets\skafferi#lunch.html" />
+    <Content Include="assets\skafferi.html" />
+    <Content Include="assets\themes\hava\images\header_bakgrundsbild2b.jpg" />
     <Content Include="config\grid.editors.config.js" />
     <Content Include="config\Lang\cs-CZ.user.xml" />
     <Content Include="config\Lang\da-DK.user.xml" />
@@ -274,8 +382,50 @@
     <Content Include="config\Lang\ru-RU.user.xml" />
     <Content Include="config\Lang\sv-SE.user.xml" />
     <Content Include="config\Lang\zh-CN.user.xml" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="css\hava-skafferi-autocomplete.css" />
+    <Content Include="css\hava-skafferi-forms.css" />
+    <Content Include="css\hava-skafferi-main.css" />
+    <Content Include="css\hava-skafferi-slick-load.css" />
+    <Content Include="css\hava-skafferi-slick-loading.css" />
+    <Content Include="css\hava-skafferi-slick-slider.css" />
+    <Content Include="css\hava-skafferi-slick.css" />
     <Content Include="default.aspx" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="assets\libraries\slick\slick\fonts\slick.eot" />
+    <Content Include="assets\libraries\slick\slick\fonts\slick.ttf" />
+    <Content Include="assets\libraries\slick\slick\fonts\slick.woff" />
+    <Content Include="assets\libraries\slick\slick\fonts\slickd41d.eot" />
+    <Content Include="assets\sites\all\libraries\slick\slick\fonts\slick.eot" />
+    <Content Include="assets\sites\all\libraries\slick\slick\fonts\slick.ttf" />
+    <Content Include="assets\sites\all\libraries\slick\slick\fonts\slick.woff" />
+    <Content Include="assets\sites\all\libraries\slick\slick\fonts\slickd41d.eot" />
+    <Content Include="assets\sites\all\themes\hava\fonts\ConduitITC.otf" />
+    <Content Include="assets\sites\all\themes\hava\fonts\TarzanaWideRegular.otf" />
+    <Content Include="assets\sites\all\themes\hava\fonts\UnionTelegraphNF.otf" />
+    <Content Include="assets\sites\all\themes\hava\fonts\Veneer.ttf" />
+    <Content Include="assets\sites\all\themes\hava\fonts\VeneerThree.ttf" />
+    <Content Include="assets\themes\hava\fonts\ConduitITC.otf" />
+    <Content Include="assets\themes\hava\fonts\TarzanaWideRegular.otf" />
+    <Content Include="assets\themes\hava\fonts\UnionTelegraphNF.otf" />
+    <Content Include="assets\themes\hava\fonts\Veneer.ttf" />
+    <Content Include="assets\themes\hava\fonts\VeneerThree.ttf" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\js_-jpVH83_GqEOTlbGNeyOREu69nuDuBx1czhLK4nhCog.js" />
+    <Content Include="Scripts\js_gPM6NXOQjN2XM2JWQGfy07nKmcdDFrL289YA7h80ySs.js" />
+    <Content Include="Scripts\js_H_SJQb28PveI4IBuOE74kJGBs2zOJklszYRGoB9s0NU.js" />
+    <Content Include="Scripts\js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js" />
+    <Content Include="Scripts\js_PCySZxpBFMI6Vqfua-NwzB-0IM_m1fx8uDgio-6n310.js" />
+    <Content Include="Scripts\js_Z4iSVB9YAxP9Q2DW-3TgRzYKM0dBxOOk1IGP0gvkaTk.js" />
+    <Content Include="Scripts\js_zfknOK6Pz34lw30Xsm5toXF4sk5yxEBB-TzI9ylO60s.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -305,6 +455,9 @@
     <Content Include="config\BackOfficeTours\getting-started.json" />
     <Content Include="config\applications.config" />
     <Content Include="config\404handlers.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <None Include="packages.config" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Partials\Grid\Editors\Textstring.cshtml" />
@@ -317,6 +470,11 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Master.cshtml" />
+    <Content Include="Views\ContentPage.cshtml" />
+    <Content Include="Views\Home.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -327,6 +485,9 @@
   <ItemGroup>
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll" />
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\MacroPartials\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -343,7 +504,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>54069</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:54069/</IISUrl>
+          <IISUrl>http://hava.local.se</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
