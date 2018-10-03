@@ -18,13 +18,13 @@
 	zoom: 1;
 }
 html.js input.form-autocomplete {
-	background-image: url(../../../../misc/throbber-inactive.png);
+	background-image: url(/assets/misc/throbber-inactive.png);
 	background-image: url(/assets/misc/throbber-inactive.png);
 	background-position: 100% center;
 	background-repeat: no-repeat;
 }
 html.js input.throbbing {
-	background-image: url(../../../../misc/throbber-active.gif);
+	background-image: url(/assets/misc/throbber-active.gif);
 	background-position: 100% center;
 }
 html.js fieldset.collapsed {
@@ -51,7 +51,7 @@ fieldset.collapsible .fieldset-legend {
 	box-sizing: border-box;
 }
 .resizable-textarea .grippie {
-	background: #eee url(../../../../misc/grippie.png) no-repeat center 2px;
+	background: #eee url(/assets/misc/grippie.png) no-repeat center 2px;
 	border: 1px solid #ddd;
 	border-top-width: 0;
 	cursor: s-resize;
@@ -73,7 +73,7 @@ a.tabledrag-handle:hover {
 	text-decoration: none;
 }
 a.tabledrag-handle .handle {
-	background: url(../../../../misc/draggable.png) no-repeat 6px 9px;
+	background: url(/assets/misc/draggable.png) no-repeat 6px 9px;
 	height: 13px;
 	margin: -0.4em 0.5em;
 	padding: 0.42em 0.5em;
@@ -90,13 +90,13 @@ div.indentation {
 	width: 20px;
 }
 div.tree-child {
-	background: url(../../../../misc/tree.png) no-repeat 11px center;
+	background: url(/assets/misc/tree.png) no-repeat 11px center;
 }
 div.tree-child-last {
-	background: url(../../../../misc/tree-bottom.png) no-repeat 11px center;
+	background: url(/assets/misc/tree-bottom.png) no-repeat 11px center;
 }
 div.tree-child-horizontal {
-	background: url(../../../../misc/tree.png) no-repeat -11px center;
+	background: url(/assets/misc/tree.png) no-repeat -11px center;
 }
 .tabledrag-toggle-weight-wrapper {
 	text-align: right;
@@ -121,7 +121,7 @@ table.sticky-header {
 	display: inline-block;
 }
 .ajax-progress .throbber {
-	background: transparent url(../../../../misc/throbber-active.gif) no-repeat 0px center;
+	background: transparent url(/assets/misc/throbber-active.gif) no-repeat 0px center;
 	float: left;
 	height: 15px;
 	margin: 2px;
